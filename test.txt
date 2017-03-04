@@ -1,0 +1,10 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is AE95-5133
+
+ Directory of F:\git
+
+03/04/2017  12:14 AM    <DIR>          .
+03/04/2017  12:14 AM    <DIR>          ..
+03/04/2017  12:14 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  209,586,360,320 bytes free
